@@ -1,0 +1,127 @@
+{
+    "customer_id": 63,
+    "organizationName": {
+                            "Organisation_id": 14,
+                            "organizationLogo": null,
+                            "organizationName": "openai",
+                            "emailAddress": null,
+                            "websiteUrl1": null,
+                            "websiteUrl2": null,
+                            "websiteUrl3": null,
+                            "salesSupport1": null,
+                            "salesSupport2": null,
+                            "salesSupport3": null,
+                            "videoUrl": null,
+                            "status": null,
+                            "createdAt": null,
+                            "updatedAt": null,
+                            "users_id": 1,
+                            "role_roleId": null
+                        },
+    "prospectName": "Mira Maruti",
+    "emailAddress": null,
+    "websiteUrl1": null,
+    "websiteUrl2": null,
+    "websiteUrl3": null,
+    "salesSupport1": null,
+    "salesSupport2": null,
+    "salesSupport3": null,
+    "videoUrl": null,
+    "status": null,
+    "createdAt": null,
+    "updatedAt": null,
+    "users_id": 4,
+    "base_video": [
+                    {
+                        "id": 17,
+                        "media": null,
+                        "type": {
+                                    "name": "personalised"
+                                },
+                        "title": null,
+                        "description": "<br>",
+                        "footer": null,
+                        "Display_text": "<br>",
+                        "Upload": null,
+                        "status": null,
+                        "video_template": 7,
+                        "audio_script": null,
+                        "audio_url": null,
+                        "position_composition_id": [3,3],
+                        "video_template_id": null,
+                        "audio_template": {
+                                                "id": 1,
+                                                "media_type": {
+                                                                "name": "audio_script"
+                                                            },
+                                                "Description": "Once upon a time, in a small village nestled between rolling hills and lush green forests, there lived a curious young girl named Amelia. Amelia was known for her insatiable appetite for adventure and her love for exploring the mysteries of the world around her.One bright and sunny morning, Amelia set out on a journey to the heart of the enchanted forest that bordered her village. Legends spoke of a magical tree hidden deep within the woods, a tree that was said to hold the answers to the most profound questions in the universe. Determined to uncover the secrets of the mystical tree, Amelia embarked on her quest with a sense of wonder and excitement.",
+                                                "Audio_url": null,
+                                                "audio_template": null
+                                            },
+                        "image_url": null,
+                        "sequence": 1,
+                        "background_video": null,
+                        "website_details": null,
+                        "Tag_personalised": {
+                                                "id": 92,
+                                                "value": "https://www.youtube.com/@meta",
+                                                "customer_organisation_customer_id": 10,
+                                                "customer_group_customer_group_id": null,
+                                                "tag_id": 17,
+                                                "longvalue": null,
+                                                "customer_customer_id": 63,
+                                                "scroll": "F",
+                                                "websearch": "T"
+                                            }
+                    },
+                    {
+                        "id": 18,
+                        "media": null,
+                        "type": {
+                                    "name": "personalised"
+                                },
+                        "title": null,
+                        "description": "<br>",
+                        "footer": null,
+                        "Display_text": "<br>",
+                        "Upload": null,
+                        "status": null,
+                        "video_template": 7,
+                        "audio_script": null,
+                        "audio_url": null,
+                        "position_composition_id": [ 2,0],
+                        "video_template_id": null,
+                        "audio_template": {
+                                                "id": 1,
+                                                "media_type": {
+                                                                    "name": "audio_script"
+                                                                },
+                                                "Description": "Once upon a time, in a small village nestled between rolling hills and lush green forests, there lived a curious young girl named Amelia. Amelia was known for her insatiable appetite for adventure and her love for exploring the mysteries of the world around her.One bright and sunny morning, Amelia set out on a journey to the heart of the enchanted forest that bordered her village. Legends spoke of a magical tree hidden deep within the woods, a tree that was said to hold the answers to the most profound questions in the universe. Determined to uncover the secrets of the mystical tree, Amelia embarked on her quest with a sense of wonder and excitement.",
+                                                "Audio_url": null,
+                                                "audio_template": null
+                                            },
+                        "image_url": null,
+                        "sequence": 2,
+                        "background_video": null,
+                        "website_details": null,
+                        "Tag_personalised": {
+                                                "id": 90,
+                                                "value": "https://www.instagram.com/meta/",
+                                                "customer_organisation_customer_id": 10,
+                                                "customer_group_customer_group_id": null,
+                                                "tag_id": 11,
+                                                "longvalue": null,
+                                                "customer_customer_id": 63,
+                                                "scroll": "T",
+                                                "websearch": "T"
+                                                }
+                        }
+                    ],
+    "background": {
+                    "id": 1,
+                    "type": {
+                                "name": "Video"
+                            },
+                    "media": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+                   }
+  }
